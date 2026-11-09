@@ -1,0 +1,3 @@
+# Python-Bytecode und Caches (Echo Engineering Control v2.2.3, Problem 6)
+__pycache__/
+*.py[cod]
